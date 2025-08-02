@@ -32,4 +32,3 @@
              - `conda activate hep-env` and press enter.
              - `jupyter notebook` and press enter. 
              - This should pop open a browser window. Navigate to the location of the .ipynb file and double click on it to open it. You can now edit and execute the python notebook on your browser
-     - W
