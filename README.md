@@ -23,10 +23,12 @@
             - `conda activate hep-env` and hit enter
         - Now install another package (or two) by typing:
             - `pip install mplhep`
-           
- 2. ### Launching jupyter notebook within correct conda environment. You do this every time you log on
-     - MacOS:
-         - From a terminal (MAor Anaconda type:
-             - `conda activate hep-env` and press enter.
-             - `jupyter notebook` and press enter. 
-             - This should pop open a browser window. Navigate to the location of the .ipynb file and double click on it to open it. You can now edit and execute the python notebook on your browser
+2. ### Downloading the ipynb files from git
+    F           
+
+3. ### Launching jupyter notebook within correct conda environment. You do this every time you log on
+     - From a terminal (MacOS) or Anaconda Powershell Prompt (Windows) type:
+         - `conda activate hep-env` and press enter.
+         - `jupyter notebook` and press enter. 
+         - This should pop open a browser window. Navigate to the location of the .ipynb file and double click on it to open it. You can now edit and execute the python notebook on your browser
+    
