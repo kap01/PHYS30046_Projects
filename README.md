@@ -1,6 +1,4 @@
-# PHYS30046_Projects Instructions
-
-# Setting up python environment #
+# Instructions for setting up python environment and launching Jupyter Notebook on MacOS or Windows#
 
 0. ###  Assumes you have miniconda installed on MacOs Anaconda and Anaconda powershell installed on Windows 
     - To install miniconda on MacOs follow the instructions here https://docs.conda.io/projects/conda/en/stable/user-guide/install/macos.html making sure you download the Miniconda installer. 
