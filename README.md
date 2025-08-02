@@ -24,7 +24,7 @@
         - Now install another package (or two) by typing:
             - `pip install mplhep`
 2. ### Downloading the ipynb files from git
-    F           
+    - Either clone the git repository from a terminal (MacOS) or Anaconda Powershell Prompt (Windows) or download the various ipynb files directly using the webpage interface.
 
 3. ### Launching jupyter notebook within correct conda environment. You do this every time you log on
      - From a terminal (MacOS) or Anaconda Powershell Prompt (Windows) type:
