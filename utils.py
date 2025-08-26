@@ -1,11 +1,13 @@
 import pandas as pd
 import numpy as np
+np.random.seed(123456789)
 import matplotlib.pyplot as plt
 import iminuit
 import mplhep as hep
 from scipy.integrate import quad
 from functools import partial
 plt.style.use(hep.style.LHCb2)
+
 
 ''' 
 Imports required for the likelihood minimisation algorithm that we will use to fit the
